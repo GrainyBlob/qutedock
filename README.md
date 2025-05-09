@@ -27,7 +27,7 @@ A ~~cute~~ open source, minimal dock for Windows, made with the Qt framework, wr
   
   - Open the folder in VSC, then wait for CMake to detect the CMakeLists.txt file...
   
-  - You will get a prompt to choose your kit. Choose a kit from the list (something like "Qt 6.<whatever> g++") Ptroject was tested only on GCC.
+  - You will get a prompt to choose your kit. Choose a kit from the list (something like "Qt 6. <-whatever-> g++") Ptroject was tested only on GCC.
   
   - Wait for it to configure the project, then build it and run the built binary.
 
